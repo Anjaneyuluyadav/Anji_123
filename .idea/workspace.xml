@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40c7700a-88c9-4fef-b5cd-a5d38ec85ddc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/anjipy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXCEPTION __handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception_Handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GENERTOR   DECORETOR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELLO/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELLO/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELLO/function 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LOOP__with code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorpisam_method_Constructor_overloading_Overriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/condition1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operater1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venu/py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.anji___py">
+  <component name="RunManager" selected="Python.condition1">
     <configuration name="LOOP__with code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="anjipy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.condition1" />
         <item itemvalue="Python.anji___py" />
         <item itemvalue="Python.k" />
         <item itemvalue="Python.LOOP__with code" />
         <item itemvalue="Python.assinment (1)" />
-        <item itemvalue="Python.condition1" />
       </list>
     </recent_temporary>
   </component>
@@ -212,9 +188,18 @@
       <option name="presentableId" value="Default" />
       <updated>1664759443196</updated>
     </task>
+    <task id="LOCAL-00001" summary="anji.py">
+      <created>1667061434676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667061434676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="anji.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="anji.py" />
   </component>
 </project>
