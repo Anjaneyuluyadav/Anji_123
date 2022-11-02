@@ -31,7 +31,7 @@
 #     print("python")
 #     print("HELO")
 #     print("I am good")
-print("HI not belongs if")
+# print("HI not belongs if")
 #if-else :
 #if -> used for to check the condition whether true or false if it is true it will execute the under the if statements will b executed
 # if con is false it wil execute esle statements
@@ -70,7 +70,7 @@ print("HI not belongs if")
 #     print("Biggest num :%d" %a)
 # else:
 #     print("Biggest num :%d" %b)
-a=0
+# a=0
 # if(a):
 #     print("Hello")
 # else:
@@ -218,13 +218,19 @@ a=0
 # else:
 # print("JAVA IS GOOD")
 # else:   #if -2
-# print("HELLO WORLD")
-# else:
-# print("CON IS FALSE")
-
-nem=7
-for i in range(1,11):
-    print(nem,"x",i,"=",nem*i)
-    # print(nem,'x',i,'=',nem*i)
-
-
+# # print("HELLO WORLD")
+# # else:
+# # print("CON IS FALSE")
+#
+# nem=7
+# for i in range(1,11):
+#     print(nem,"x",i,"=",nem*i)
+#     # print(nem,'x',i,'=',nem*i)
+#
+a=4
+b=7
+a=a^b
+b=a^b
+a=a^b
+print(bin(a))
+print(bin(b))
