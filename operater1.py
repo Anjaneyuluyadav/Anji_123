@@ -15,8 +15,8 @@ b=2
 # print(a**3) # 5*5*5 # exponent
 # print(pow(a,2)) # 9*9
 # print(5/2)
-
-# print(math.pow(4,3))
+#
+# print(pow(4,3))
 # print(pow(4,3))
 # print((4**3))
 
@@ -24,29 +24,29 @@ b=2
 # + useful for concantinte two strings  here two variables should b strings  only
 # * when we do multipliction on strings the varibles(one should b string and another one should b integer)
 
-# x=10
-# y=20
+x=10
+y=20
 # print(x+y)
 # x="NAGA"
 # y="PYTHON"
 # print(x+y)
 
-# x=10
-# y=2
+x=10
+y=2
 # print(x*2)
-# x="python"
-# y=2
+x="python"
+y=2
 # print(y*x)
 
 
-# x="Python"   #python2
-# y=str(2)
-# print(x+y)
+x="Python"   #python2
+y=str(2)
+print(y+x)
 
 
 
 
-
+#
 # a=22
 # a=str(a)
 # b ="JAva"
@@ -73,11 +73,11 @@ b=2
 # it shows the relation bitween two operands
 #it will retrun the result is True /false
 a=10
-b=5
-#print(a>b) #True
-#print(a<b) #False
-#print(a>=a) #True
-#print(b<=b) #True
+# b=5
+# print(a>b) #True
+# print(b > a) #False
+# print(a>=a) #True
+# print(b<=b) #True
 # print(a<=9) #False
 # print(b>=6) #False
 # print(a>=5) #True
@@ -267,7 +267,7 @@ a,b=10,20
 # c=50
 # a,b,c=a+20,b+30,50
 # print(a,b,c)
-
+#
 # syntax ->varibale = varibale if cond else val
 a,b=10,20
 # print(a)
@@ -438,7 +438,7 @@ b=6
 # 1 0    1
 # 0 1    1
 # 0 0    0
-print(a^b)
+# print(a^b)
 
 # #          32 16  8  4  2  1
 #                   0   0   0   1
@@ -554,9 +554,9 @@ b=10
 #keyword should not b used a variable name
 
 # to know how many keywords in current version
-import keyword
-print(keyword.kwlist)
-print(len(keyword.kwlist))
+# import keyword
+# print(keyword.kwlist)
+# print(len(keyword.kwlist))
 
 # min,max,len,pow ..etc  are predefined functions -> no need to import any module
 # True ,False None these three starts with caps

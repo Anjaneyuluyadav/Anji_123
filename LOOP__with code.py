@@ -29,14 +29,14 @@ for i in range(1,n+1):
     f=f*i
 print("Fact of",n ,"is :",f)
 
-
-n         f      I          f=f*I
-5          1    1          f=1
-             1    2         f=1*2=2
-             2     3        f=2*3=6
-              6     4      f=6*4=24
-              24    5     f=24*5=120
-            120
+#
+# n         f      I          f=f*I
+# 5          1    1          f=1
+#              1    2         f=1*2=2
+#              2     3        f=2*3=6
+#               6     4      f=6*4=24
+#               24    5     f=24*5=120
+#             120
 count=0
 for i in range(1,n+1):
     if n%i==0:
@@ -49,10 +49,10 @@ else:
 
 
 
-
-n  Count
-5    1
-     2
+#
+# n  Count
+# 5    1
+#      2
 
 
 

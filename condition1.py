@@ -229,8 +229,16 @@
 #
 a=4
 b=7
-a=a^b
-b=a^b
-a=a^b
-print(bin(a))
-print(bin(b))
+# a=a^b
+# b=a^b
+# a=a^b
+# print(bin(a))
+# print(bin(b))
+a,b=b,a
+print(a,b)
+x={'a':7,'b':9}
+keys=list(len(x.keys()))
+values=list(len(x.values()))
+print(keys)
+out=[]
+for values:keys,values in (x.values():
